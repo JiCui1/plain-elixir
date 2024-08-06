@@ -1,1 +1,1 @@
-# elixir_phoenix
+# plain elixir

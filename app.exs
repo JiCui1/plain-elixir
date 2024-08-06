@@ -1,3 +1,1 @@
-def test() do 
-  "Testing"
-end
+IO.puts("Hello World Elixir")
